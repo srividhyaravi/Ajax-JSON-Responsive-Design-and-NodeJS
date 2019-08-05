@@ -1,0 +1,28 @@
+
+body{
+text-align: center;
+}
+
+#heading{
+	margin-left: 1	cm;
+	text-align: center;
+}
+
+#condition{
+	display: inline;
+}
+
+#box{
+	border: 2px solid #B2BABB; 
+	text-align: center; 
+	width: 700px;
+	height: 350px; 
+	margin-left: 9.5cm; 
+	background-color: #F2F4F4;"
+}
+
+
+#mytable {
+    cursor: pointer;
+}
+
